@@ -6,7 +6,7 @@
 
 ## 📸 Screenshots
 
-> *(Add screenshots or demo GIFs here to showcase the UI)*
+> ![CineStream Screenshot](./public/Screenshot%20(47).png)
 
 ---
 
