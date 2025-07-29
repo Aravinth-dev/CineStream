@@ -4,12 +4,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-> Coming soon... *(Add your deployed URL here if available)*
-
----
-
 ## 📸 Screenshots
 
 > *(Add screenshots or demo GIFs here to showcase the UI)*
@@ -47,18 +41,16 @@ npm install
 npm run dev
 ```
 ## 🔐 API Key Setup
-Go to TMDb and create an account.
-
-Generate an API key from your TMDb dashboard.
-
-Create a .env file in the root directory and add:
+- Go to TMDb and create an account.
+- Generate an API key from your TMDb dashboard.
+- Create a .env file in the root directory and add:
 ```bash
 VITE_TMDB_API_KEY=your_tmdb_api_key_here
 ```
-| Restart the dev server after adding the key.
+ > Restart the dev server after adding the key.
 
 ## 📁 Project Structure
-
+```
 CineStream/
 ├── public/
 ├── src/
@@ -71,7 +63,7 @@ CineStream/
 │   └── main.jsx
 ├── index.html
 └── vite.config.js
-
+```
 ---
 
 ## 🤝 Contributing
